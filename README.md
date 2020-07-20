@@ -7,7 +7,7 @@ Currently, the support is for Spark ML GLM and Random Forest.
 JAVA Version 8  
 SBT Version 1.2.8  
 SCALA Version 2.11.12  
-SPARK Version 2.4.4
+SPARK Version 2.4.4  
 XGBOOST Version 1.0.0
 
 Below are the steps to use this library.

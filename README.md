@@ -8,7 +8,7 @@ JAVA Version 8
 SBT Version 1.2.8  
 SCALA Version 2.11.12  
 SPARK Version 2.4.4
-
+XGBOOST Version 1.0.0
 
 Below are the steps to use this library.
 
@@ -46,6 +46,12 @@ Below are the steps to use this library.
     val df = spark.emptyDataFrame
     val resultDF = explainTransformer.transform(df)
 ```
+
+# The Python `spark wrapper` and `scikit-learn` library is here: https://github.com/imanbio/transparency
+
+## Pyspark Example Notebooks
+- [PySpark GLM Explain Example](https://github.com/imanbio/transparency/examples/notebooks/spark/pyspark_glm_explain.ipynb)
+- [PySpark Random Forest Explain Example](https://github.com/imanbio/transparency/examples/notebooks/spark/pyspark_random_forest_explain.ipynb)
 
 ## Authors
 * Iman Haji <https://www.linkedin.com/in/imanhaji>

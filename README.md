@@ -47,9 +47,12 @@ Below are the steps to use this library.
     val resultDF = explainTransformer.transform(df)
 ```
 
+## Authors
+* Iman Haji <https://www.linkedin.com/in/imanhaji>
+* Imran Qureshi <https://www.linkedin.com/in/imranq2/>
+* Alvin Henrick <https://www.linkedin.com/in/alvinhenrick/>
 
-license
--------
+## License
 Apache License Version 2.0 
 
 

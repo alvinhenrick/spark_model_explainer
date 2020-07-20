@@ -50,8 +50,8 @@ Below are the steps to use this library.
 # The Python `spark wrapper` and `scikit-learn` library is here: https://github.com/imanbio/transparency
 
 ## Pyspark Example Notebooks
-- [PySpark GLM Explain Example](https://github.com/imanbio/transparency/examples/notebooks/spark/pyspark_glm_explain.ipynb)
-- [PySpark Random Forest Explain Example](https://github.com/imanbio/transparency/examples/notebooks/spark/pyspark_random_forest_explain.ipynb)
+- [PySpark GLM Explain Example](https://github.com/imanbio/transparency/blob/master/examples/notebooks/spark/pyspark_glm_explain.ipynb)
+- [PySpark Random Forest Explain Example](https://github.com/imanbio/transparency/blob/master/examples/notebooks/spark/pyspark_random_forest_explain.ipynb)
 
 ## Authors
 * Iman Haji <https://www.linkedin.com/in/imanhaji>
